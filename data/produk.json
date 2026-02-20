@@ -22,10 +22,5 @@
     "stok": 50,
     "kategori": "Pakaian",
     "aktif": true
-  },
-  {
-    "nama": "game",
-    "harga": 2500000,
-    "id": 4
   }
 ]
