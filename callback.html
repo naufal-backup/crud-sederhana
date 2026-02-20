@@ -41,7 +41,7 @@
 
       if (!data.access_token) throw new Error(data.error || 'Token tidak diterima.');
 
-      sessionStorage.setItem('gc:naufal-backup/YOUR_REPO:token', data.access_token);
+      sessionStorage.setItem('gc:naufal-backup/crud-sederhana:token', data.access_token);
       msg.textContent = 'Berhasil! Mengalihkan…';
       document.getElementById('spin').style.borderTopColor = '#1a7a42';
 
