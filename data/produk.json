@@ -22,5 +22,10 @@
     "stok": 50,
     "kategori": "Pakaian",
     "aktif": true
+  },
+  {
+    "nama": "Mousepad",
+    "harga": 50000,
+    "id": 4
   }
 ]
